@@ -13,6 +13,6 @@ setup(
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
-        "License :: OSI Approved :: Python License Version 2",
+        "License :: OSI Approved :: MIT License",
         ],
     )
