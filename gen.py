@@ -14,7 +14,7 @@ __all__ = [
 def info():
     return {
         'birthday':         datetime.date(%(birth_year)d, %(birth_month)d, %(birth_day)d),
-        'class':            u'%(class)s',
+        'class':            %(class)s,
         'family_name_en':   u'%(family_name_en)s',
         'family_name_kana': u'%(family_name_kana)s',
         'first_name_en':    u'%(first_name_en)s',
@@ -31,7 +31,7 @@ def info():
         'birth_year': birth_year,
         'birth_month': birth_month,
         'birth_day': birth_day,
-        'class': row['class'],
+        'class': row['class'] if row['class'] else u'None',
         'family_name_en': row['family_name_en'],
         'family_name_kana': row['family_name_kana'],
         'first_name_en': row['first_name_en'],

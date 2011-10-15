@@ -8,7 +8,7 @@ __all__ = [
 def info():
     return {
         'birthday':         datetime.date(1987, 10, 25),
-        'class':            u'1',
+        'class':            1,
         'family_name_en':   u'watanabe',
         'family_name_kana': u'わたなべ',
         'first_name_en':    u'shiho',
