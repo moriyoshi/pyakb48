@@ -8,7 +8,7 @@ pyakb48 documentation
 
 Introduction
 ------------
-This package is a port of a great Perl module Acme::AKB48 which is created by Hideo Kimura.  Although I don't have the slightest interest in AKB48,  I happened to be under the impression of bringing Acme essence into Python world and felt like it being worth the first Acme to be ported.
+This package is a port of a great Perl module Acme::AKB48 which is created by Hideo Kimura.  Although I don't have the slightest interest in AKB48,  I happened to be under the impression that Python world (almost) totally lacks "Acme" essence and feel like it being worth the first Acme to be ported.
 
 Module reference
 ----------------
