@@ -18,13 +18,4 @@ Then install it:
 
     % sudo python setup.py install
 
-Documentation
--------------
-
-akb48 documentation is available as reStructuredText. So you can do:
-
-    % perldoc Acme::AKB48
-
-to read the documentation online with your favorite pager.
-
-Moriyoshi
+Moriyoshi Koizumi
