@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pyakb48',
-    version='0.0.0',
+    version='0.0.1',
     author='Moriyoshi Koizumi',
     author_email='mozo@mozo.jp',
     packages=['akb48', 'akb48.member'],
