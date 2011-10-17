@@ -1,14 +1,14 @@
-=====
-AKB48
-=====
+=======
+PYAKB48
+=======
 This is a port of the perl module Acme::AKB48 by Hideo Kimura.
 
 Installation
 ------------
-akb48 installation is straightforward.  If your environment has
+pyakb48 installation is straightforward.  If your environment has
 easy_install ready,  then you should just be able to do
 
-    % easy_install akb48
+    % easy_install pyakb48
 
 Download it, unpack it, then build it as per the usual:
 
